@@ -1,0 +1,79 @@
+[
+    {
+        "name": "desired_fee_percentage",
+        "value": "0.40",
+        "label": "",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "desired_repayment_delay",
+        "value": "30 days*60 days*90 days",
+        "label": "Repayment Delay",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "funding_amount",
+        "value": "revenue_amount\/3",
+        "label": "What is your desired loan amount?",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "revenue_amount",
+        "value": "",
+        "label": "What is your annual business revenue in the fiscal year?",
+        "placeholder": "$250,000",
+        "tooltip": ""
+    },
+    {
+        "name": "revenue_percentage",
+        "value": "(0.156 \/ 6.2055 \/ revenue_amount) * (funding_amount * 10)",
+        "label": "Repayment Rate",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "revenue_shared_frequency",
+        "value": "monthly*weekly",
+        "label": "Repayment Frequency",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "use_of_funds",
+        "value": "Marketing*Personnel*Working Capital*Inventory*Machinery\/Equipment*Other",
+        "label": "What will you use the funds for?",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "funding_amount_max",
+        "value": "750000",
+        "label": "",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "funding_amount_min",
+        "value": "25000",
+        "label": "",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "revenue_percentage_min",
+        "value": "2",
+        "label": "",
+        "placeholder": "",
+        "tooltip": ""
+    },
+    {
+        "name": "revenue_percentage_max",
+        "value": "8.5",
+        "label": "",
+        "placeholder": "",
+        "tooltip": ""
+    }
+]
